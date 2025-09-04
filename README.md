@@ -1,7 +1,4 @@
-# Oral Disease Detection App
-
 # Oral Disease Detection App using Computer Vision & Deep Learning
-# It is a comprehensive web application for the early detection and explanation of dental diseases from oral images. This project leverages state-of-the-art Deep Learning models for segmentation and classification, combined with a Large Language Model (LLM) for intuitive disease explanation.
 
 A comprehensive web application for the early detection and explanation of dental diseases from oral images. This project leverages state-of-the-art Deep Learning models for segmentation and classification, combined with a Large Language Model (LLM) for intuitive disease explanation.
 
